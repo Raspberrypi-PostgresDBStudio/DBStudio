@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=PostgreSQL DbStudio Manager
+Path=/home/paddy/Data/DbStudio/CompiledRaspiVersion/
+Exec=/home/paddy/Data/DbStudio/CompiledRaspiVersion/DbStudio
+Icon=/home/paddy/Data/DbStudio/CompiledRaspiVersion/sql.png
+StartupNotify=false
+Categories=IDE;Development;X-SQL
+Keywords=Database;SQL;PostgreSQL
+MimeType=application/sql

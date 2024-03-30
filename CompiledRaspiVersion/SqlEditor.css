@@ -1,0 +1,9 @@
+textview {font: 12px "Monospace";}
+text {
+background-color: white;
+color: black;
+}
+.view text selection {
+background-color: blue;
+color: yellow;
+}
